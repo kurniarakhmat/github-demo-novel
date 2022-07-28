@@ -1,0 +1,4 @@
+So I'm going to make chapter one just a text file.
+
+I'll just do it from within my text editor, but I could do it from the command line.
+Tambahan editing
