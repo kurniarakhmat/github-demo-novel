@@ -1,3 +1,6 @@
+CHARACTERS
+==========
+
 John Catsby
 
 Tom Hamilton
